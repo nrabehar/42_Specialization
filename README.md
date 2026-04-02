@@ -1,1 +1,1 @@
-# 42_Specialization
+# 42 Specialization
